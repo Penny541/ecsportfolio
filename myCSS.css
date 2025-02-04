@@ -2,14 +2,14 @@
 /* This is a comment! Text here will be ignored by the browser. */
 
 .homePage {
-	background: #BFC6FF;
+	background: #063133;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #BFFFE6;
+	background: #206466;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -19,7 +19,7 @@
 	
 }
 .nav {
-	background: #BFDAFF;
+	background: #4E9799;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -28,14 +28,14 @@
 	text-align: center;
 }
 .content {
-	background: #D8F6FF;
+	background: #E4FEFF;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: #BFFFFC;
+	background: #91CACC;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -51,10 +51,10 @@ body {
 }
 
 a:link {
-     color: #D8F6FF;
+     color: #E4FEFF;
 }
 a:visited {
-     color: #D8F6FF;
+     color: #E4FEFF;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
